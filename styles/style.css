@@ -41,6 +41,10 @@
     border-radius: 5px;
  }
 
+ .common_btn:hover{
+    background-color: aquamarine;
+ }
+
  .banner_bottom_part{
     margin-left: 176px;
  }
@@ -53,6 +57,10 @@
     font-weight: bold;
     border: 2px solid #FD6E0A;
     border-radius: 5px;
+
+}
+.btn_contact:hover{
+    background-color: aquamarine;
 }
 
 .banner_parent{
